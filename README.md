@@ -22,3 +22,5 @@ My name is Nam Hyung-jin in korean
 I have project experience using JavaScript(My most confident language)
 also have toy project experience using Python, Ruby, C
 I am very interested in learn new technology like Ai
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
