@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-fullstack developer를 지향하며, AI나 Low-Level 언어 그리고 보안쪽에도 관심이 많은 사람입니다.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0xNSKY&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+# _Hello Guest!_
+My name is Nam Hyung-jin in korean
+I have project experience using JavaScript(My most confident language)
+also have toy project experience using Python, Ruby, C
+I am very interested in learn new technology like Ai
