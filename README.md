@@ -35,8 +35,6 @@ I am very interested in learn new technology like Ai
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/NestJs-E0234E?style=flat-square&logo=NestJs&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/deno-000000?style=flat-square&logo=deno&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/RubyOnRails-CC342D?style=flat-square&logo=RubyonRails&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
