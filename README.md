@@ -22,7 +22,7 @@ My name is Hyung-jin Nam
 
 I have project experience using JavaScript(My most confident language)
 
-also have toy project experience using Python, C
+also have toy project experience using Python
 
 I am very interested in learn new technology like Ai
 
