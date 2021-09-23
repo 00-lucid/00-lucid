@@ -25,7 +25,9 @@ I have project experience using JavaScript(My most confident language)
 also have toy project experience using Python, Java
 
 front: react
+
 backend: spring
+
 data: python
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
