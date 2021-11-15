@@ -22,7 +22,7 @@ My name is Hyung-jin Nam
 
 I have project experience using JavaScript(My most confident language)
 
-also have toy project experience using Python, Java
+also have toy project experience using Python, Java :D
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
