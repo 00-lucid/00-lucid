@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # _Hello Guest 🚀_
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xNSKY&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xNSKY&show_icons=true&theme=dark)
 
 
 <!-- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
