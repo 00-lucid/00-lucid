@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=300&section=header&text=Hello%2000-lucid&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=300&section=header&text=Hello%200xNSKY&fontSize=80)
 
 <!--
 **0xNSKY/0xNSKY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # _Hello Guest! 🚀_
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=00-lucid&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xNSKY&show_icons=true&theme=dark)
 
 
 <!-- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00-lucid&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xNSKY&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
