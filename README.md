@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=300&section=header&text=Hello%2000-lucid&fontSize=70)
 
+<div align="center">
 <!--
 **0xNSKY/0xNSKY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,4 +41,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00-lucid&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=00-lucid&theme=flat&column=3&title=Joined2020,Commits,PullRequest,Issues,Repositories,Stars)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
