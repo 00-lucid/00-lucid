@@ -39,3 +39,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00-lucid&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=00-lucid&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
